@@ -1,0 +1,32 @@
+{
+  "photos" : [
+    "example-not-found.jpeg"
+  ],
+  "lat" : 51.509865,
+  "music_title" : "",
+  "date_modified" : 1535736146000,
+  "label" : "",
+  "text" : "This is an example.\nAnd another line.\n",
+  "weather" : {
+    "place" : "Somewhere",
+    "id" : -1,
+    "degree_c" : 4,
+    "icon" : "02n",
+    "description" : "Mostly Clear"
+  },
+  "date_journal" : 1514581234000,
+  "preview_text" : "This is an example.",
+  "mood" : 0,
+  "sentiment" : 0,
+  "lon" : -0.118092,
+  "music_artist" : "",
+  "tags" : [
+    "exampletag"
+  ],
+  "address" : "Somewhere",
+  "type" : "",
+  "id" : "1514581234000-jkhe1fky36irc0bc",
+  "timezone" : "",
+  "favourite" : false,
+  "folder" : ""
+}
